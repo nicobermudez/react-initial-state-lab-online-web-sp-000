@@ -1,5 +1,5 @@
 import 'React' from 'react';
 
-export default class ImageSlider extends Component {
+export default class Bomb extends Component {
 
 }
