@@ -1,4 +1,6 @@
 // your ImageSlider code here!
 import 'React' from {Component};
 
-export default class ImageSlider 
+export default class ImageSlider extends Component {
+  
+}
