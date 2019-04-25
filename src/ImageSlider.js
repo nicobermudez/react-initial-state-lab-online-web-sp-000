@@ -1,2 +1,2 @@
 // your ImageSlider code here!
-import 'React' from {Component}
+import 'React' from {Component};
